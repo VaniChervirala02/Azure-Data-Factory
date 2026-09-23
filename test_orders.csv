@@ -1,0 +1,121 @@
+OrderID,OrderDate,CustomerName,Product,Category,Quantity,UnitPrice,TotalAmount,SalesRepID,Region,Status
+1001,2022-01-05,Emily Carter,Wireless Mouse,Electronics,3,19.99,59.97,14,East,Shipped
+1002,2022-01-06,Frank Nguyen,Office Chair,Furniture,1,129.50,129.50,27,West,Delivered
+1003,2022-01-08,Grace Kim,Laptop Stand,Electronics,2,34.75,69.50,3,North,Shipped
+1004,2022-01-10,Henry Diaz,Notebook Pack,Stationery,10,4.25,42.50,58,South,Delivered
+1005,2022-01-12,Isabella Moreno,Desk Lamp,Furniture,1,22.99,22.99,19,East,Cancelled
+1006,2022-01-15,Jack Turner,Bluetooth Speaker,Electronics,2,45.00,90.00,32,West,Shipped
+1007,2022-01-17,Karen Blake,Ergonomic Keyboard,Electronics,1,59.99,59.99,45,North,Delivered
+1008,2022-01-19,Liam Foster,Filing Cabinet,Furniture,1,89.00,89.00,71,South,Shipped
+1009,2022-01-21,Mia Sanders,Printer Paper,Stationery,5,6.50,32.50,14,East,Delivered
+1010,2022-01-23,Noah Ellis,Monitor Arm,Electronics,1,74.20,74.20,27,West,Shipped
+1011,2022-01-25,Olivia Pratt,Standing Desk,Furniture,1,299.00,299.00,3,North,Delivered
+1012,2022-01-27,Peter Nash,Sticky Notes,Stationery,20,1.25,25.00,58,South,Delivered
+1013,2022-01-29,Quinn Alvarez,Webcam,Electronics,1,39.99,39.99,19,East,Shipped
+1014,2022-02-01,Rachel Ortiz,Bookshelf,Furniture,1,145.00,145.00,32,West,Cancelled
+1015,2022-02-03,Samuel Hayes,USB Hub,Electronics,3,15.75,47.25,45,North,Delivered
+1016,2022-02-05,Tina Wallace,Binder Clips,Stationery,15,2.10,31.50,71,South,Shipped
+1017,2022-02-07,Umar Reyes,Gaming Chair,Furniture,1,189.99,189.99,14,East,Delivered
+1018,2022-02-09,Vera Simmons,External SSD,Electronics,1,84.50,84.50,27,West,Shipped
+1019,2022-02-11,Walter Fox,Desk Organizer,Furniture,2,18.40,36.80,3,North,Delivered
+1020,2022-02-13,Xena Patel,Highlighters,Stationery,8,3.60,28.80,58,South,Shipped
+1021,2022-02-15,Yusuf Bennett,Wireless Charger,Electronics,2,27.99,55.98,19,East,Delivered
+1022,2022-02-17,Zoe Coleman,Conference Table,Furniture,1,450.00,450.00,32,West,Cancelled
+1023,2022-02-19,Aaron Price,Ballpoint Pens,Stationery,30,0.85,25.50,45,North,Delivered
+1024,2022-02-21,Bella Watts,Tablet Case,Electronics,1,21.99,21.99,71,South,Shipped
+1025,2022-02-23,Caleb Ross,Office Chair,Furniture,2,129.50,259.00,14,East,Delivered
+1026,2022-02-25,Diana Frost,Laptop Stand,Electronics,1,34.75,34.75,27,West,Shipped
+1027,2022-02-27,Ethan Marsh,Notebook Pack,Stationery,12,4.25,51.00,3,North,Delivered
+1028,2022-03-01,Fiona Chase,Desk Lamp,Furniture,3,22.99,68.97,58,South,Shipped
+1029,2022-03-03,Gavin Cross,Bluetooth Speaker,Electronics,1,45.00,45.00,19,East,Cancelled
+1030,2022-03-05,Hannah Doyle,Ergonomic Keyboard,Electronics,2,59.99,119.98,32,West,Delivered
+1031,2022-03-07,Ian Fletcher,Filing Cabinet,Furniture,1,89.00,89.00,45,North,Shipped
+1032,2022-03-09,Julia Ward,Printer Paper,Stationery,6,6.50,39.00,71,South,Delivered
+1033,2022-03-11,Kevin Stone,Monitor Arm,Electronics,1,74.20,74.20,14,East,Shipped
+1034,2022-03-13,Laura Reid,Standing Desk,Furniture,1,299.00,299.00,27,West,Delivered
+1035,2022-03-15,Mason Hale,Sticky Notes,Stationery,25,1.25,31.25,3,North,Cancelled
+1036,2022-03-17,Nora Bishop,Webcam,Electronics,2,39.99,79.98,58,South,Delivered
+1037,2022-03-19,Oscar Lam,Bookshelf,Furniture,1,145.00,145.00,19,East,Shipped
+1038,2022-03-21,Paula Vance,USB Hub,Electronics,4,15.75,63.00,32,West,Delivered
+1039,2022-03-23,Quincy Dean,Binder Clips,Stationery,10,2.10,21.00,45,North,Shipped
+1040,2022-03-25,Rosa Trent,Gaming Chair,Furniture,1,189.99,189.99,71,South,Delivered
+1041,2022-03-27,Sean Burke,External SSD,Electronics,1,84.50,84.50,14,East,Cancelled
+1042,2022-03-29,Tara Nolan,Desk Organizer,Furniture,3,18.40,55.20,27,West,Shipped
+1043,2022-03-31,Uriel Pace,Highlighters,Stationery,9,3.60,32.40,3,North,Delivered
+1044,2022-04-02,Vicky Roman,Wireless Charger,Electronics,1,27.99,27.99,58,South,Shipped
+1045,2022-04-04,Wesley Cain,Conference Table,Furniture,1,450.00,450.00,19,East,Delivered
+1046,2022-04-06,Ximena Boyd,Ballpoint Pens,Stationery,40,0.85,34.00,32,West,Shipped
+1047,2022-04-08,Yosef Mack,Tablet Case,Electronics,2,21.99,43.98,45,North,Delivered
+1048,2022-04-10,Zara Holt,Office Chair,Furniture,1,129.50,129.50,71,South,Cancelled
+1049,2022-04-12,Adam Pierce,Laptop Stand,Electronics,3,34.75,104.25,14,East,Shipped
+1050,2022-04-14,Brianna Voss,Notebook Pack,Stationery,15,4.25,63.75,27,West,Delivered
+1051,2022-04-16,Cody Sharp,Desk Lamp,Furniture,2,22.99,45.98,3,North,Shipped
+1052,2022-04-18,Delia Franks,Bluetooth Speaker,Electronics,1,45.00,45.00,58,South,Delivered
+1053,2022-04-20,Elias Grant,Ergonomic Keyboard,Electronics,1,59.99,59.99,19,East,Shipped
+1054,2022-04-22,Faith Osborn,Filing Cabinet,Furniture,2,89.00,178.00,32,West,Delivered
+1055,2022-04-24,Gerald Poole,Printer Paper,Stationery,7,6.50,45.50,45,North,Cancelled
+1056,2022-04-26,Holly Vaughn,Monitor Arm,Electronics,1,74.20,74.20,71,South,Shipped
+1057,2022-04-28,Isaac Hood,Standing Desk,Furniture,1,299.00,299.00,14,East,Delivered
+1058,2022-04-30,Jasmine Neal,Sticky Notes,Stationery,18,1.25,22.50,27,West,Shipped
+1059,2022-05-02,Kyle Barron,Webcam,Electronics,1,39.99,39.99,3,North,Delivered
+1060,2022-05-04,Leah Combs,Bookshelf,Furniture,1,145.00,145.00,58,South,Shipped
+1061,2022-05-06,Marcus Dodd,USB Hub,Electronics,2,15.75,31.50,19,East,Delivered
+1062,2022-05-08,Nadia Yates,Binder Clips,Stationery,12,2.10,25.20,32,West,Cancelled
+1063,2022-05-10,Oliver Pham,Gaming Chair,Furniture,1,189.99,189.99,45,North,Shipped
+1064,2022-05-12,Paige Cortez,External SSD,Electronics,1,84.50,84.50,71,South,Delivered
+1065,2022-05-14,Quentin Hines,Desk Organizer,Furniture,4,18.40,73.60,14,East,Shipped
+1066,2022-05-16,Renee Sawyer,Highlighters,Stationery,10,3.60,36.00,27,West,Delivered
+1067,2022-05-18,Simon Barr,Wireless Charger,Electronics,2,27.99,55.98,3,North,Shipped
+1068,2022-05-20,Tessa Odom,Conference Table,Furniture,1,450.00,450.00,58,South,Delivered
+1069,2022-05-22,Ulric Fry,Ballpoint Pens,Stationery,35,0.85,29.75,19,East,Cancelled
+1070,2022-05-24,Vanessa Klein,Tablet Case,Electronics,1,21.99,21.99,32,West,Shipped
+1071,2022-05-26,Wade Ferris,Office Chair,Furniture,2,129.50,259.00,45,North,Delivered
+1072,2022-05-28,Yara Solis,Laptop Stand,Electronics,1,34.75,34.75,71,South,Shipped
+1073,2022-05-30,Zack Pruitt,Notebook Pack,Stationery,8,4.25,34.00,14,East,Delivered
+1074,2022-06-01,Amara Byrd,Desk Lamp,Furniture,1,22.99,22.99,27,West,Cancelled
+1075,2022-06-03,Bruno Chan,Bluetooth Speaker,Electronics,2,45.00,90.00,3,North,Shipped
+1076,2022-06-05,Celia Marsh,Ergonomic Keyboard,Electronics,1,59.99,59.99,58,South,Delivered
+1077,2022-06-07,Dean Whitfield,Filing Cabinet,Furniture,1,89.00,89.00,19,East,Shipped
+1078,2022-06-09,Erin Sloan,Printer Paper,Stationery,9,6.50,58.50,32,West,Delivered
+1079,2022-06-11,Felix Choi,Monitor Arm,Electronics,2,74.20,148.40,45,North,Shipped
+1080,2022-06-13,Gina Novak,Standing Desk,Furniture,1,299.00,299.00,71,South,Cancelled
+1081,2022-06-15,Hugo Salas,Sticky Notes,Stationery,22,1.25,27.50,14,East,Delivered
+1082,2022-06-17,Ines Corbin,Webcam,Electronics,1,39.99,39.99,27,West,Shipped
+1083,2022-06-19,Jorge Vidal,Bookshelf,Furniture,2,145.00,290.00,3,North,Delivered
+1084,2022-06-21,Kira Meadows,USB Hub,Electronics,3,15.75,47.25,58,South,Shipped
+1085,2022-06-23,Leon Ashby,Binder Clips,Stationery,14,2.10,29.40,19,East,Delivered
+1086,2022-06-25,Mila Strand,Gaming Chair,Furniture,1,189.99,189.99,32,West,Cancelled
+1087,2022-06-27,Nolan Presley,External SSD,Electronics,1,84.50,84.50,45,North,Shipped
+1088,2022-06-29,Opal Ferrell,Desk Organizer,Furniture,2,18.40,36.80,71,South,Delivered
+1089,2022-07-01,Pablo Enright,Highlighters,Stationery,11,3.60,39.60,14,East,Shipped
+1090,2022-07-03,Queenie Doss,Wireless Charger,Electronics,1,27.99,27.99,27,West,Delivered
+1091,2022-07-05,Ronan Gable,Conference Table,Furniture,1,450.00,450.00,3,North,Cancelled
+1092,2022-07-07,Selena Marks,Ballpoint Pens,Stationery,28,0.85,23.80,58,South,Shipped
+1093,2022-07-09,Tobias Kern,Tablet Case,Electronics,2,21.99,43.98,19,East,Delivered
+1094,2022-07-11,Ursula Payne,Office Chair,Furniture,1,129.50,129.50,32,West,Shipped
+1095,2022-07-13,Victor Lam,Laptop Stand,Electronics,3,34.75,104.25,45,North,Delivered
+1096,2022-07-15,Wendy Ochoa,Notebook Pack,Stationery,9,4.25,38.25,71,South,Cancelled
+1097,2022-07-17,Xander Rowe,Desk Lamp,Furniture,1,22.99,22.99,14,East,Shipped
+1098,2022-07-19,Yolanda Ibe,Bluetooth Speaker,Electronics,2,45.00,90.00,27,West,Delivered
+1099,2022-07-21,Zeke Palmer,Ergonomic Keyboard,Electronics,1,59.99,59.99,3,North,Shipped
+1100,2022-07-23,Alina Cotton,Filing Cabinet,Furniture,2,89.00,178.00,58,South,Delivered
+1101,2022-07-25,Bode Sutton,Printer Paper,Stationery,6,6.50,39.00,19,East,Cancelled
+1102,2022-07-27,Camille Reese,Monitor Arm,Electronics,1,74.20,74.20,32,West,Shipped
+1103,2022-07-29,Dario Fuller,Standing Desk,Furniture,1,299.00,299.00,45,North,Delivered
+1104,2022-07-31,Elle Bowman,Sticky Notes,Stationery,16,1.25,20.00,71,South,Shipped
+1105,2022-08-02,Finnegan Kirk,Webcam,Electronics,1,39.99,39.99,14,East,Delivered
+1106,2022-08-04,Georgia Snow,Bookshelf,Furniture,1,145.00,145.00,27,West,Cancelled
+1107,2022-08-06,Hassan Ridley,USB Hub,Electronics,2,15.75,31.50,3,North,Shipped
+1108,2022-08-08,Ivy Chambers,Binder Clips,Stationery,13,2.10,27.30,58,South,Delivered
+1109,2022-08-10,Julian Frey,Gaming Chair,Furniture,1,189.99,189.99,19,East,Shipped
+1110,2022-08-12,Kayla Winters,External SSD,Electronics,2,84.50,169.00,32,West,Delivered
+1111,2022-08-14,Lorenzo Huff,Desk Organizer,Furniture,3,18.40,55.20,45,North,Cancelled
+1112,2022-08-16,Miriam Boone,Highlighters,Stationery,7,3.60,25.20,71,South,Shipped
+1113,2022-08-18,Nathaniel Cruz,Wireless Charger,Electronics,1,27.99,27.99,14,East,Delivered
+1114,2022-08-20,Odette Farrow,Conference Table,Furniture,1,450.00,450.00,27,West,Shipped
+1115,2022-08-22,Preston Isaac,Ballpoint Pens,Stationery,32,0.85,27.20,3,North,Delivered
+1116,2022-08-24,Quinlan Vaught,Tablet Case,Electronics,1,21.99,21.99,58,South,Cancelled
+1117,2022-08-26,Rosalind Aguirre,Office Chair,Furniture,2,129.50,259.00,19,East,Shipped
+1118,2022-08-28,Silas Denton,Laptop Stand,Electronics,1,34.75,34.75,32,West,Delivered
+1119,2022-08-30,Talia Weiss,Notebook Pack,Stationery,10,4.25,42.50,45,North,Shipped
+1120,2022-09-01,Uziel Marsh,Desk Lamp,Furniture,2,22.99,45.98,71,South,Delivered
